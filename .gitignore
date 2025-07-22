@@ -2,5 +2,7 @@
 ./vscode
 /LoFa
 
+.env
 dev.nix
 settings.json
+
